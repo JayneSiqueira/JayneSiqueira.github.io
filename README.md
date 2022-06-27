@@ -1,8 +1,8 @@
+:construction:  Projeto em construção  :construction:
+
 ![Logo ver blue](https://user-images.githubusercontent.com/64817829/175856614-a133a689-e6f3-42b7-939b-8d08fe56da65.png)
 
 <h1 Portfolio Website </h1>
-
-:construction:  Projeto em construção  :construction:
 
 ## 📁 Sobre o projeto
 
