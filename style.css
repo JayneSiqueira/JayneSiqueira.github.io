@@ -10,8 +10,6 @@ body {
   background-color: #fff8f0;
 }
 
-/* height: calc(100vh - 8em); padding: 4em; */
-
 h1 {
   font-family: "Bebas Neue";
   font-size: 38px;
@@ -44,7 +42,7 @@ p {
 }
 
 .lista {
-  margin: 2em;
+  margin: 2em 20vw;
 }
 
 .lista a {
@@ -96,5 +94,27 @@ p {
 .creditos p {
   font-family: "Montserrat";
   font-size: 16px;
-  line-height: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .lista {
+    margin: 2em 8vw;
+  }
+
+  .lista a {
+    padding: 0.8em 1em;
+  }
+
+  .icons {
+    margin-top: 2em;
+  }
+
+  .icons a {
+    margin: 0.8em;
+  }
+
+  .creditos {
+    padding-top: 0.8em;
+    margin-top: 1em;
+  }
 }
